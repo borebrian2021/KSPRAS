@@ -1,0 +1,1733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KSPRAS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KSPRAS.mtwy7oserc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\site.css",
+      "PackagePath": "staticwebassets\\assets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\css\\style1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\a-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\a-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\a-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\a-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\ab-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ab-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\ab-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ab-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\about-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\about_us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about_us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\advocacy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advocacy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\australia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\australia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-list-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-list-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-list-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-list-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog-list-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-list-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\blog_left.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog_left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\burn.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burn5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\burn5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burn_centers.png",
+      "PackagePath": "staticwebassets\\assets\\images\\burn_centers.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burn_survivors.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\burn_survivors.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burnmeeting.png",
+      "PackagePath": "staticwebassets\\assets\\images\\burnmeeting.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burnt1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\burnt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burnt2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\burnt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\burnt3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\burnt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\c-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\c-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\c-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\call.png",
+      "PackagePath": "staticwebassets\\assets\\images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\campaing-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\campaing-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-details-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-details-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-details-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-details-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\causes-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\community-150125_960_720.png",
+      "PackagePath": "staticwebassets\\assets\\images\\community-150125_960_720.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\coperation.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\coperation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\Czechoslovakia.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\Czechoslovakia.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\Scottland.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\Scottland.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\argentina.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\argentina.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\australia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\australia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\brazil.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\brazil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\canada.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\canada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\conference.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\conference.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\conference1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\conference1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\cote.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\cote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\cote_divo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\cote_divo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\durban.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\durban.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\durban.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\durban.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\egypt.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\egypt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\ethipia.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\ethipia.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\france.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\france.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\ghana.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\ghana.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\ghana.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\ghana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\india.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\india.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\israel.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\israel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\japan.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\japan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\nigeria.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\nigeria.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\poster.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\poster.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\senegal.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\senegal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\south_africa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\south_africa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\sweden.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\sweden.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\turkey.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\turkey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\countries\\usa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\countries\\usa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doctors1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doctors3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doctors4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doctors4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\doner-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\doner-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\education.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\education.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\event-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\event-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\event-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\f-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\f-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\f-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\f-icon-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f-icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\fire_fighters.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fire_fighters.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\firefighters.png",
+      "PackagePath": "staticwebassets\\assets\\images\\firefighters.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\founder1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\founder1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\founder2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\founder2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\compassion.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\compassion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\education.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\education.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\four.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\four.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\lady.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\lady.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\phone.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\three.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\three.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gallery\\two.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\two.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\gray-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gray-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\heand.png",
+      "PackagePath": "staticwebassets\\assets\\images\\heand.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\help-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\help-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\help-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\help-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\help-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\help-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\isbi.png",
+      "PackagePath": "staticwebassets\\assets\\images\\isbi.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\lady.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\lady.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\map-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\map-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\map.png",
+      "PackagePath": "staticwebassets\\assets\\images\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\ngo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ngo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\prevention.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\prevention.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\research.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\research.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\s-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\s-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\s-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\s-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\s-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\s-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\scotland.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\scotland.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\sd-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sd-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\sd-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sd-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\sd-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sd-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\section_icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\section_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\services-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\services-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\services-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\footer_shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\footer_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-11.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\shape\\shape-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\sidebar_icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider_hero-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider_hero-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\slider_hero.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider_hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\support_logo-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\support_logo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\support_logo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\support_logo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\support_logo-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\support_logo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\support_logo-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\support_logo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\usa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\usa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\video-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\videobg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\videobg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\volunteer-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\volunteer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\volunteer-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\volunteer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\volunteer-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\volunteer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\images\\volunteer-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\volunteer-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\kepras.png",
+      "PackagePath": "staticwebassets\\assets\\kepras.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\jquery.richtext.js",
+      "PackagePath": "staticwebassets\\assets\\src\\jquery.richtext.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\jquery.richtext.min.js",
+      "PackagePath": "staticwebassets\\assets\\src\\jquery.richtext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\richtext-colors.scss",
+      "PackagePath": "staticwebassets\\assets\\src\\richtext-colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\richtext.min.css",
+      "PackagePath": "staticwebassets\\assets\\src\\richtext.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\richtext.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\src\\richtext.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\assets\\src\\richtext.scss",
+      "PackagePath": "staticwebassets\\assets\\src\\richtext.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\css\\dropdownStyles.css",
+      "PackagePath": "staticwebassets\\css\\dropdownStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\css\\index.css.map",
+      "PackagePath": "staticwebassets\\css\\index.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\css\\login\\style.css",
+      "PackagePath": "staticwebassets\\css\\login\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\css\\style.css",
+      "PackagePath": "staticwebassets\\elegantdashbord\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\elegantdashbord\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\css\\style.min.css.map",
+      "PackagePath": "staticwebassets\\elegantdashbord\\css\\style.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Black.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Bold.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-ExtraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Light.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Medium.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Regular.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\Inter-Thin.woff2",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\Inter-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\demo.html",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\fonts\\stylesheet.css",
+      "PackagePath": "staticwebassets\\elegantdashbord\\fonts\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\Avatar.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\Avatar.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-02.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-02.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-02.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-03.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-03.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-04.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-04.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-04.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-05.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-face-05.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-face-05.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-01.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-01.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-01.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-02.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-02.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-02.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-03.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-03.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-04.png",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\avatar\\avatar-illustrated-04.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\avatar\\avatar-illustrated-04.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\01.jpg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\01.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\01.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\02.jpg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\02.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\02.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\03.jpg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\03.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\03.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\04.jpg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\categories\\04.webp",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\categories\\04.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\404.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\2 User.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\2 User.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\3-User-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\3-User-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\3-User-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\3-User-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Activity.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Activity.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\AddUser.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\AddUser.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Down3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-DownCircle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-DownCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-DownSquare.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-DownSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Left3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-LeftCircle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-LeftCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-LeftSquare.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-LeftSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Right3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-RightCircle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-RightCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-RightSquare.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-RightSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-Up3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-UpCircle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-UpCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrow-UpSquare.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrow-UpSquare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Arrows-up-down.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Arrows-up-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Bag 3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Bag 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Bag.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Bookmark.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Buy.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Buy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Calendar.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Call Missed.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Call Missed.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Call Silent.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Call Silent.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Call.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Call.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Calling.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Calling.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Camera.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Category-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Category-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Category-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Category-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Chart.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Chat.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Close Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Close Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Danger.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Danger.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Delete.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Delete.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Discount.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Discount.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Discovery.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Discovery.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Document-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Document-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Document-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Document-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Download.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Download.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Edit Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Edit Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Edit-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Edit-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Edit-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Edit-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Filter 2.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Filter 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Filter.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Filter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Folder-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Folder-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Folder-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Folder-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Game.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Game.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Graph.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Graph.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Heart.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Hide.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Hide.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Home-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Home-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Home-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Home-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Image 3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Image 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Image-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Image-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Image-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Image-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Info Circle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Info Circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Info Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Info Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Location.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Location.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Lock.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Lock.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Login.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Login.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Logout.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Logout.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Menu-toggle-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Menu-toggle-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Menu-toggle-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Menu-toggle-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Message-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Message-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Message-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Message-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\More Circle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\More Circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\More Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\More Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Notification-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Notification-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Notification.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Notification.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper Download.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper Download.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper Fail.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper Fail.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper Negative.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper Negative.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper Plus.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper Plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper Upload.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper Upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Paper-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Paper-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Password.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Password.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Play.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Plus.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Profile.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Scan.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Scan.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Search.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Search.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Send.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Send.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Setting-gray.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Setting-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Setting-white.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Setting-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Settings-line.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Settings-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Shield Done.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Shield Done.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Shield Fail.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Shield Fail.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Show.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Show.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Star.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Star.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Swap.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Swap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Tick Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Tick Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Ticket Star.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Ticket Star.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Ticket.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Ticket.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Time Square.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Time Square.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\TimeCircle.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\TimeCircle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Unlock.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Upload.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Video.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Video.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Voice 3.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Voice 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Voice.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Voice.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Volume Down.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Volume Down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Volume Off.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Volume Off.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Volume Up.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Volume Up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Wallet.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Bulk\\Work.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Bulk\\Work.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\GoogleDrive.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\GoogleDrive.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\Logo.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\baloon.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\baloon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\customers.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\customers.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\dropbox.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\image-frame.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\image-frame.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\move.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\move.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\radio.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\radio.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\img\\svg\\thumbnail.svg",
+      "PackagePath": "staticwebassets\\elegantdashbord\\img\\svg\\thumbnail.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\js\\script.js",
+      "PackagePath": "staticwebassets\\elegantdashbord\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\plugins\\chart.min.js",
+      "PackagePath": "staticwebassets\\elegantdashbord\\plugins\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\elegantdashbord\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\elegantdashbord\\plugins\\feather.min.js.map",
+      "PackagePath": "staticwebassets\\elegantdashbord\\plugins\\feather.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\js\\login\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\login\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\js\\login\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\login\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\js\\login\\main.js",
+      "PackagePath": "staticwebassets\\js\\login\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\js\\login\\popper.js",
+      "PackagePath": "staticwebassets\\js\\login\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\KSPRAS\\KSPRAS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KSPRAS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KSPRAS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KSPRAS.props",
+      "PackagePath": "build\\KSPRAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KSPRAS.props",
+      "PackagePath": "buildMultiTargeting\\KSPRAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KSPRAS.props",
+      "PackagePath": "buildTransitive\\KSPRAS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
