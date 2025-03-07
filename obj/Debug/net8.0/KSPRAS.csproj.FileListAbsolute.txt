@@ -138,10 +138,13 @@ C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets\msbui
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KSPRAS.props
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KSPRAS.props
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\KSPRAS.csproj.Up2Date
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\KSPRAS.dll
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\refint\KSPRAS.dll
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\KSPRAS.pdb
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\KSPRAS.genruntimeconfig.cache
 C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\ref\KSPRAS.dll
+C:\Users\Admin\source\repos\KSPRAS\KSPRAS\bin\Debug\net8.0\PesapalNetCoreDll.dll
+C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\KSPRAS.sourcelink.json
+C:\Users\Admin\source\repos\KSPRAS\KSPRAS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\KSPRAS\KSPRAS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

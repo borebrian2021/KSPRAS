@@ -2100,17 +2100,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s9b53c4zwx"},{"Name":"integrity","Value":"sha256-sKRc1a7Wbie9juhh0OO3gsjnmEm94y\u002BQ8Hi58kUaNvI="},{"Name":"label","Value":"_content/KSPRAS/assets/js/jquery.magnific-popup.min.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20219"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022sKRc1a7Wbie9juhh0OO3gsjnmEm94y\u002BQ8Hi58kUaNvI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Dec 2024 16:38:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/KSPRAS/assets/js/main.e9iuo5rdpu.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\main.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e9iuo5rdpu"},{"Name":"integrity","Value":"sha256-Dgy9M1ap7iaHquPYHxXGW5b\u002BZ\u002BhPz2wRJYb64ngGe/g="},{"Name":"label","Value":"_content/KSPRAS/assets/js/main.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12456"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Dgy9M1ap7iaHquPYHxXGW5b\u002BZ\u002BhPz2wRJYb64ngGe/g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 12:36:49 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/KSPRAS/assets/js/main.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\main.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dgy9M1ap7iaHquPYHxXGW5b\u002BZ\u002BhPz2wRJYb64ngGe/g="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12456"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Dgy9M1ap7iaHquPYHxXGW5b\u002BZ\u002BhPz2wRJYb64ngGe/g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 12:36:49 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2afr/K9Y\u002B/guzMPhBC2rfX5NL\u002BS5NtXk1YR8CDQ\u002BMtc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12620"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222afr/K9Y\u002B/guzMPhBC2rfX5NL\u002BS5NtXk1YR8CDQ\u002BMtc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 15:39:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/KSPRAS/assets/js/main.t7sobqv2wz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t7sobqv2wz"},{"Name":"integrity","Value":"sha256-2afr/K9Y\u002B/guzMPhBC2rfX5NL\u002BS5NtXk1YR8CDQ\u002BMtc="},{"Name":"label","Value":"_content/KSPRAS/assets/js/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12620"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00222afr/K9Y\u002B/guzMPhBC2rfX5NL\u002BS5NtXk1YR8CDQ\u002BMtc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 15:39:36 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/KSPRAS/assets/js/popper.min.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\js\popper.min.js'))</AssetFile>

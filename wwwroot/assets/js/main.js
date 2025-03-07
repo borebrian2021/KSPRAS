@@ -466,3 +466,7 @@ var x = setInterval(function () {
     console.error(error);
         });
     });
+function loadIframe() {
+    document.getElementById("paymentFrame").src = "https://localhost:7209/home/justpay";
+    fetch(https://localhost:7209/home/justpay)
+}

@@ -18,6 +18,8 @@
 
                     </div>
                     <form class="signin-form" id="upload_abstract">
+                        <input type="text" hidden id="ammount" value="1" class="form-control custome-input" name="FirstName" required>
+
                         <div class="row">
                             <!-- First Name -->
                             <div class="col-lg-6">
@@ -156,6 +158,14 @@
 
             </div>
         </div>
- 
+ </div>
 </section>
+
+<button onclick="loadIframe()">Load Payment</button>
+
+
+<iframe src="https://demo.pesapal.com/API/PostPesapalDirectOrderV4?oauth_callback=https%3A%2F%2Flocalhost%3A7209%2Fhome%2Fuploadabstract&oauth_consumer_key=qkio1BGGYAXTu2JOfm7XSXNruoZsrqEW&oauth_nonce=4c5aae3a-a2f1-4441-b279-6e4b4dc494f2&oauth_signature=ETXBBhbCYfviqCUYSL9TpTqBM18%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1741274861&oauth_version=1.0&pesapal_request_data=%EF%BB%BF%26lt%3B%3Fxml%20version%3D%26quot%3B1.0%26quot%3B%20encoding%3D%26quot%3Butf-8%26quot%3B%3F%26gt%3B%26lt%3BPesapalDirectOrderInfo%20xmlns%3Axsi%3D%26quot%3Bhttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema-instance%26quot%3B%20xmlns%3Axsd%3D%26quot%3Bhttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%26quot%3B%20Amount%3D%26quot%3B30%26quot%3B%20Description%3D%26quot%3BPAYMENT%20OF%20THE%20CONFERENCE%20REGISTRATION%20FEE%26quot%3B%20Type%3D%26quot%3BMERCHANT%26quot%3B%20Reference%3D%26quot%3BJGSJHSJVJH%26quot%3B%20FirstName%3D%26quot%3BBrian%26quot%3B%20LastName%3D%26quot%3BKimutai%26quot%3B%20Email%3D%26quot%3Bbkimutai2021%40gmail.com%26quot%3B%20PhoneNumber%3D%26quot%3B0712035642%26quot%3B%20xmlns%3D%26quot%3Bhttp%3A%2F%2Fwww.pesapal.com%26quot%3B%26gt%3B%26lt%3BLineItems%26gt%3B%26lt%3BLineItem%20UniqueId%3D%26quot%3B%26quot%3B%20Particulars%3D%26quot%3B%26quot%3B%20Quantity%3D%26quot%3B5%26quot%3B%20UnitCost%3D%26quot%3B6%26quot%3B%20SubTotal%3D%26quot%3B30%26quot%3B%20%2F%26gt%3B%26lt%3B%2FLineItems%26gt%3B%26lt%3B%2FPesapalDirectOrderInfo%26gt%3B" width="100%" height="620px" frameborder="0" scrolling="auto"></iframe>
+
+
+
 
