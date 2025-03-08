@@ -5,7 +5,7 @@
 namespace KSPRAS.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class InitialCreate6 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -37,6 +37,21 @@ namespace KSPRAS.Migrations
                 {
                     table.PrimaryKey("PK_AbstractSubmissionModel", x => x.ID);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "IPNResponses",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    OrderTrackingId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    OrderNotificationType = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    OrderMerchantReference = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_IPNResponses", x => x.Id);
+                });
         }
 
         /// <inheritdoc />
@@ -44,6 +59,9 @@ namespace KSPRAS.Migrations
         {
             migrationBuilder.DropTable(
                 name: "AbstractSubmissionModel");
+
+            migrationBuilder.DropTable(
+                name: "IPNResponses");
         }
     }
 }

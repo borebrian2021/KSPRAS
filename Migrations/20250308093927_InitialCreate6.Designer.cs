@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KSPRAS.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20250307153556_InitialCreate1")]
-    partial class InitialCreate1
+    [Migration("20250308093927_InitialCreate6")]
+    partial class InitialCreate6
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -102,11 +102,15 @@ namespace KSPRAS.Migrations
 
             modelBuilder.Entity("KSPRAS.Models.IPNResponses", b =>
                 {
-                    b.Property<string>("Key")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
 
-                    b.Property<decimal>("OrderMerchantReference")
-                        .HasColumnType("decimal(18,2)");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("OrderMerchantReference")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("OrderNotificationType")
                         .IsRequired()
@@ -116,7 +120,7 @@ namespace KSPRAS.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Key");
+                    b.HasKey("Id");
 
                     b.ToTable("IPNResponses");
                 });

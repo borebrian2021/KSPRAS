@@ -22,10 +22,7 @@ public class PesaPal : Controller
 
     }
 
-
-
-
-    public string Authenticate()
+    public string Authenticate(String Refference)
     {
         string data = JsonConvert.SerializeObject(keysecrets);
         var url = "https://pay.pesapal.com/v3/api/Auth/RequestToken";
@@ -60,11 +57,18 @@ public class PesaPal : Controller
     public void  InsertIPN(string OrderTrackingId,string OrderNotificationType,string OrderMerchantReference)
     {
         IPNResponses x = new IPNResponses();
-        x.OrderTrackingId =OrderTrackingId;
-        x.OrderNotificationType  = OrderNotificationType;
+        x.OrderTrackingId = OrderTrackingId;
+        x.OrderNotificationType = OrderNotificationType;
         x.OrderMerchantReference = OrderMerchantReference;
         DBContext.Add(x);
-        DBContext.SaveChangesAsync();
+        DBContext.SaveChanges();
+       
+    }
+    
+
+    public void  InsertToDB(string OrderTrackingId,string OrderNotificationType,string OrderMerchantReference)
+    {
+       
 
     }
 
@@ -100,17 +104,19 @@ public class PesaPal : Controller
             return result;
 
         }
-  
-
     }
 
     public string JustPay(string token)
     {
+        const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        Random random = new Random();
+        string r = new string(Enumerable.Repeat(chars, 12)
+                                    .Select(s => s[random.Next(s.Length)]).ToArray());
         string data = JsonConvert.SerializeObject(keysecrets);
         var url = "https://pay.pesapal.com/v3/api/Transactions/SubmitOrderRequest";
         var paymentRequest = new
         {
-            id = "4424445",
+            id = r,
             currency = "KES",
             amount = 1,
             description = "Registration for the Pabs Conference",

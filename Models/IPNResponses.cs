@@ -6,7 +6,7 @@
     public class IPNResponses
     {
         [Key]
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string OrderTrackingId { get; set; }
         public string OrderNotificationType { get; set; }
         public string OrderMerchantReference { get; set; }
