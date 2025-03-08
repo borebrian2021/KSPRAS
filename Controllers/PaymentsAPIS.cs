@@ -14,7 +14,7 @@ namespace KSPRAS.Controllers;
 public class PesaPal : Controller
 {
     public ApplicationDBContext DBContext;
-
+    public KeysSecret keysecrets = new KeysSecret("GUlNXa5GEYSX95mdmnr/Rdfd9SqEbtln", "lgUPZRN1tnFDLrJF4Ekl0MLIO6M=");
 
     public PesaPal(ApplicationDBContext DBcontext)
     {
@@ -27,11 +27,9 @@ public class PesaPal : Controller
 
     public string Authenticate()
     {
-        KeysSecret keysecrets = new KeysSecret("qkio1BGGYAXTu2JOfm7XSXNruoZsrqEW","osGQ364R49cXKeOYSpaOnT++rHs=");
         string data = JsonConvert.SerializeObject(keysecrets);
-        var url = "https://cybqa.pesapal.com/pesapalv3/api/Auth/RequestToken";
+        var url = "https://pay.pesapal.com/v3/api/Auth/RequestToken";
         
-
         var request = (HttpWebRequest)WebRequest.Create(url);
         request.Method = "POST";
         request.ContentType = "application/json";
@@ -58,8 +56,7 @@ public class PesaPal : Controller
 
          
     }
-
-    [HttpPost]
+[HttpGet]
     public void  InsertIPN(string OrderTrackingId,string OrderNotificationType,string OrderMerchantReference)
     {
         IPNResponses x = new IPNResponses();
@@ -71,13 +68,11 @@ public class PesaPal : Controller
 
     }
 
-
+    
     public string RegisterIPN()
     {
-        KeysSecret keysecrets = new KeysSecret("qkio1BGGYAXTu2JOfm7XSXNruoZsrqEW","osGQ364R49cXKeOYSpaOnT++rHs=");
         string data = JsonConvert.SerializeObject(keysecrets);
         var url = "https://cybqa.pesapal.com/pesapalv3/api/URLSetup/RegisterIPN";
-
         var jsonObject = new
         {
             url = "https://81a8-102-217-67-229.ngrok-free.app",
@@ -86,7 +81,6 @@ public class PesaPal : Controller
 
         // To convert to JSON string (if needed)
         string jsonString = Newtonsoft.Json.JsonConvert.SerializeObject(jsonObject);
-    
         var request = (HttpWebRequest)WebRequest.Create(url);
         request.Method = "POST";
         request.ContentType = "application/json";
@@ -112,18 +106,16 @@ public class PesaPal : Controller
 
     public string JustPay(string token)
     {
-        KeysSecret keysecrets = new KeysSecret("qkio1BGGYAXTu2JOfm7XSXNruoZsrqEW", "osGQ364R49cXKeOYSpaOnT++rHs=");
         string data = JsonConvert.SerializeObject(keysecrets);
-        var url = "https://cybqa.pesapal.com/pesapalv3/api/Transactions/SubmitOrderRequest";
-
+        var url = "https://pay.pesapal.com/v3/api/Transactions/SubmitOrderRequest";
         var paymentRequest = new
         {
             id = "4424445",
             currency = "KES",
-            amount = 10,
+            amount = 1,
             description = "Registration for the Pabs Conference",
             callback_url = "https://www.myapplication.com/response-page",
-            notification_id = "dc6dd648-e5fa-49fa-9821-dc13ad3e3a43",
+            notification_id = "4835c08f-4383-4908-9980-dc12a88afc8c",
             billing_address = new
             {
                 email_address = "bkimutai2021@gmail.com",
