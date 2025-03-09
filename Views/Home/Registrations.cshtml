@@ -1,0 +1,243 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<section class="ftco-section mt-100" style="margin-bottom:125px; margin-top:100px" id="login">
+    <div class="container " style="margin-bottom:125px; margin-top:100px">
+
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+
+
+                <div class=" p-4 p-md-5">
+                    <div class="d-flex">
+                        <div class="w-100">
+                            <h3 class="mb-4">Conference registration</h3>
+                        </div>
+
+                    </div>
+                    <form class="signin-form" id="upload_abstract">
+                        <div class="row">
+                            <!-- Will you attend? -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label">Will you attend? *</label>
+                                    <select class="form-control custome-input" name="Attend" required>
+                                        <option value="">Select an option</option>
+                                        <option value="Yes">Yes</option>
+                                        <option value="No">No</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <!-- Name -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="name">First Name *</label>
+                                    <input type="text" class="form-control custome-input" placeholder="Enter your name" id="name" name="FName" required>
+                                </div>
+                            </div> <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="name">Second Name *</label>
+                                    <input type="text" class="form-control custome-input" placeholder="Enter your name" id="name" name="SName" required>
+                                </div>
+                            </div>
+
+                            <!-- Cadre -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="cadre">Please enter Cadre *</label>
+                                    <input type="text" class="form-control custome-input" placeholder="Enter your cadre" id="cadre" name="Cadre" required>
+                                </div>
+                            </div>
+
+                            <!-- Telephone Number -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="telephone">Telephone Number *</label>
+                                    <input type="text" class="form-control custome-input" placeholder="Enter your phone number" id="telephone" name="TelephoneNumber" required>
+                                </div>
+                            </div>
+
+                            <!-- Email Address -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="email">Email Address *</label>
+                                    <input type="email" class="form-control custome-input" placeholder="Enter your email" id="email" name="EmailAddress" required>
+                                </div>
+                            </div>
+
+                            <!-- Institutional Affiliation -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="institution">Institutional Affiliation *</label>
+                                    <input type="text" class="form-control custome-input" placeholder="Enter your institution" id="institution" name="Institution" required>
+                                </div>
+                            </div>
+
+                            <!-- Payment Confirmation -->
+                            <div class="col-lg-6">
+                                <div class="form-group mb-3">
+                                    <label class="label">I understand that I will have to pay the registration fee before or upon arrival. *</label>
+                                    <select class="form-control custome-input" name="PaymentConfirmation" required>
+                                        <option value="">Select an option</option>
+                                        <option value="Yes">Yes</option>
+                                        <option value="No">No</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="col-lg-12 text-left">
+                                    <h3 class="text-center m-5"> Registration Fee Table</h3>
+                                    <table class="table table-bordered table-striped text-center" >
+                                        <thead   style="background-color:#f15226;color:white">
+                                            <tr>
+                                                <th>Category</th>
+                                                <th>Super Early Bird</th>
+                                                <th>Early Bird</th>
+                                                <th>On Site</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Residents</td>
+                                                <td>21,000</td>
+                                                <td>23,000</td>
+                                                <td>26,250</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Consultants</td>
+                                                <td>27,000</td>
+                                                <td>30,375</td>
+                                                <td>33,750</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Nurses, Allied Professionals, Medical Officers</td>
+                                                <td>18,000</td>
+                                                <td>20,250</td>
+                                                <td>22,500</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Medical Students</td>
+                                                <td>10,000</td>
+                                                <td>10,000</td>
+                                                <td>15,000</td>
+                                            </tr>
+                                            <tr>
+                                                <td>East African Delegates</td>
+                                                <td>36,000</td>
+                                                <td>40,500</td>
+                                                <td>45,000</td>
+                                            </tr>
+                                            <tr>
+                                                <td>International Delegates</td>
+                                                <td>370 USD</td>
+                                                <td>415 USD</td>
+                                                <td>460 USD</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                    <h3 class="text-center m-4">Deadlines:</h3>
+                                    <ul class="list-group">
+                                        <li class="list-group-item"><strong>Super Early Bird:</strong> 30th April 2025</li>
+                                        <li class="list-group-item"><strong>Early Bird:</strong> 31st July 2025</li>
+                                        <li class="list-group-item"><strong>On-Site:</strong> 1st August 2025</li>
+                                    </ul>
+
+                                    <p class="text-left font-weight-bold  m-4" style="color:#f15226">
+                                        ✅ Fully paid-up KISPRAS members get a 10% discount on all the above rates.
+                                    </p>
+                                    <p class="text-left font-weight-bold  m-4" style="color:#f15226">
+                                        ✅ We accept online payments eg (Paypal,Visa,Mastercard,M-PESA,Airtle Money).
+                                    </p>
+
+
+
+                                </div>
+                            </div>
+                            <!-- Submit Button -->
+                            <div class="col-lg-6 text-center">
+                                <div class="form-group" style="text-align:center;justify-content:center;align-items:center">
+                                    <label for="category">Select Category:</label>
+                                    <select class="form-control custome-input" id="category" name="PaymentCategory" rquired>
+                                        <option value="" disabled selected>Select a category</option>
+                                        <option value="Residents">Residents</option>
+                                        <option value="Consultants">Consultants</option>
+                                        <option value="Nurses, Allied Professionals, Medical Officers">Nurses, Allied Professionals, Medical Officers</option>
+                                        <option value="Medical Students">Medical Students</option>
+                                        <option value="East African Delegates">East African Delegates</option>
+                                        <option value="International Delegates">International Delegates</option>
+                                    </select>
+                                    <br>
+                                        </div>
+                            </div><!-- Submit Button -->
+                            <div class="col-lg-6 text-center">
+                                <div class="form-group" style="text-align:center;justify-content:center;align-items:center">
+                                    <label for="category">Select Currency to Pay:</label>
+                                        <select class="form-control custome-input"  rquired name="currency" id="currency">
+                                            <option value="KES">Kenya shillings</option>
+                                            <option value="UGX">Ugandan Shillings</option>
+                                            <option value="TZS">Tanzanian shillings</option>
+                                            <option value="USD">US Dollars</option>
+                                        </select>
+                                    <br>
+                                        </div>
+                            </div>
+                            
+                            <div class="col-lg-6 text-center ">
+                                <div class="form-group" style="text-align:center;justify-content:center;align-items:center">
+                                    <img src="/assets/images/gallery/loading.gif" id="loading" style="height:50px;width:50px" />
+                                    <button type="submit" class="form-control btn rounded submit px-3" style="background-color:#f15226;color:white" id="uploadDoc">Make Payment</button>
+                                </div>
+                            </div>
+
+                          
+                        </div>
+                    </form>
+
+                </div>
+
+
+            </div>
+        </div>
+ </div>
+</section>
+
+<!-- Test Button to Open Modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#PayModal" onclick="setPaymentUrl()">Test Payment Modal</button>
+
+<!-- Payment Modal -->
+<div class="modal fade" id="PayModal" tabindex="-1" role="dialog" aria-labelledby="PayModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header custome_header_bg_color">
+                <h4 class="text-white font-weight-light">Please complete the payment to proceed!</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe id="paymentIframe" width="100%" height="620px" frameborder="0" scrolling="auto"></iframe>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript to Set Payment URL -->
+<script>
+    function setPaymentUrl() {
+        let testUrl = "https://example.com"; // Replace with actual payment URL
+        document.getElementById("paymentIframe").src = testUrl;
+    }
+</script>
+
+
+
+
+

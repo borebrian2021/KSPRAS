@@ -1,4 +1,4 @@
-const dev_domain = "https://localhost:44349/"
+const dev_domain = "https://localhost:7209/"
 //const dev_domain = "https://www.panafricanburns.com/"
 
 $(document).ready(function () {
@@ -147,7 +147,7 @@ $('#register').submit(function (event) {
 $("#contactus").submit(function (event) {
     event.preventDefault(); // Prevent form submission to avoid page refresh
 
-    const apiEndpoint = dev_domain+"api/contactus";
+    const apiEndpoint = dev_domain +"PesaPal/Upload";
 
     // Define the data to be sent to the API
     const registerData = {
@@ -197,73 +197,69 @@ $("#contactus").submit(function (event) {
 
 });
 //Signup
-$("#upload_abstract").submit(function (event) {
-    event.preventDefault(); // Prevent form submission to avoid page refresh
-    $("#uploadDoc").fadeOut();
-    $("#loading").fadeIn();
+//$("#upload_abstract5").submit(function (event) {
+//    event.preventDefault(); // Prevent form submission to avoid page refresh
+//    alert("Test")
+//    $("#uploadDoc").fadeOut();
+//    $("#loading").fadeIn();
+//    const formData = new FormData(this);
+//    alert(formData.FName)
+//    const apiEndpoint = dev_domain + "Pesapal/Upload";
+//    // Define the data to be sent to the API
 
-    const apiEndpoint = dev_domain + "api/upload";
-    // Define the data to be sent to the API
-    const registerData = {
-        FirstName: $("#fname").val(),
-        LastName: $("#lname").val(),
-        institution: $("#institution").val(),
-        Email: $("#email_l").val(),
-        Phone: $("#Pnumber").val(),
-        Abstract: $("#abstract").val(),
 
-    };
-
-    // Send the POST request
-    fetch(apiEndpoint, {
-        method: "POST", // HTTP method
-        headers: {
+//    // Send the POST request
+//    fetch(apiEndpoint, {
+//        method: "POST", // HTTP method
+//        headers: {
           
-            'Content-Type': 'application/json'
-            // Inform server that the payload is JSON
-        },
-        body: JSON.stringify(registerData) // Convert JS object to JSON string
-    })
-        .then(response => {
-            if (!response.status == "success") {
-                Swal.fire({
-                    icon: "error",
-                    title: "Upload failed failed.",
-                    text: response,
-                    footer: '<a href="#">Why do I have this issue?</a>'
-                });
+//            'Content-Type': 'application/json'
+//            // Inform server that the payload is JSON
+//        },
+//        body: formData// Convert JS object to JSON string
+//    })
+//        .then(response => {
+//            if (!response.status == "success") {
+//                //Swal.fire({
+//                //    icon: "error",
+//                //    title: "Upload failed failed.",
+//                //    text: response,
+//                //    footer: '<a href="#">Why do I have this issue?</a>'
+//                //});
+             
 
- 
+//                // Open the modal
 
-            }
-            else {
-                Swal.fire({
-                    title: "Success!",
-                    text: "Abstract Uploaded  successfully!!",
-                    icon: "success"
-                });
-                $("#uploadDoc").fadeIn();
-                $("#loading").fadeOut();
+    
+
+//            }
+//            else {
+               
+//                $("#uploadDoc").fadeIn();
+//                $("#loading").fadeOut();
             
-                $("input:text").val("");
-                $("textarea:text").val("");
-            }
-            return response.json(); // Parse the JSON response
-        })
-        .then(data => {
-            console.log("Response from server:", data); // Log the response data
-        })
-        .catch(error => {
-            console.log("Error posting data:", error); // Log any errors
-        });
+//                $("input:text").val("");
+//                $("textarea:text").val("");
+//                let testUrl = "https://example.com"; // Replace with actual payment URL
+//                document.getElementById("paymentIframe").src = response.redirectUrl;
+//                $("#PayModal").modal("show");
+//            }
+//            return response.json(); // Parse the JSON response
+//        })
+//        .then(data => {
+//            console.log("Response from server:", data); // Log the response data
+//        })
+//        .catch(error => {
+//            console.log("Error posting data:", error); // Log any errors
+//        });
 
-});
+//});
 
-$("#mobile_code").intlTelInput({
-    initialCountry: "in",
-    separateDialCode: true,
-    // utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"
-});
+//$("#mobile_code").intlTelInput({
+//    initialCountry: "in",
+//    separateDialCode: true,
+//    // utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"
+//});
 
 function maxlength(obj, wordLen) {
     var len = obj.value.split(/[\s]+/);

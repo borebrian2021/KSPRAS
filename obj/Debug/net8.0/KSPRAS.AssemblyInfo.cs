@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KSPRAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1119a8e948d8fb11fb5ec46a9f222c31c6f8b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b11e7315da7d4ae43913193b26129e5f2237dca")]
 [assembly: System.Reflection.AssemblyProductAttribute("KSPRAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KSPRAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

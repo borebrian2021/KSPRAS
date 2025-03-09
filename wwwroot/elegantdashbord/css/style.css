@@ -1190,7 +1190,7 @@ body {
 }
 
 .search-wrapper svg {
-  stroke: #ff2744;
+  stroke: #f15226;
   position: absolute;
   left: 11px;
   top: 50%;
@@ -1212,12 +1212,12 @@ body {
 }
 
 .theme-switcher circle {
-  fill: #ff2744;
-  stroke: #ff2744;
+  fill: #f15226;
+  stroke: #f15226;
 }
 
 .theme-switcher line {
-  stroke: #ff2744;
+  stroke: #f15226;
 }
 
 .users .primary-white-btn svg {
@@ -1276,7 +1276,7 @@ body {
 .dropzone-start svg {
   width: 60px;
   height: 60px;
-  color: #ff2744;
+  color: #f15226;
   stroke-width: 1px;
 }
 
@@ -1327,11 +1327,11 @@ button:focus {
 
 button.disabled {
   cursor: default;
-  color: #ff2744;
+  color: #f15226;
 }
 
 button.disabled:hover {
-  color: #ff2744;
+  color: #f15226;
 }
 
 button.disabled:focus {
@@ -1536,7 +1536,7 @@ button.disabled:focus {
 }
 
 .extentions-btn.disabled {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .filter-btn svg {
@@ -1570,7 +1570,7 @@ button.disabled:focus {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  color: #ff2744;
+  color: #f15226;
   padding: 2px 8px;
   background-color: #FFFFFF;
   border: 1px solid #EEEEEE;
@@ -1650,7 +1650,7 @@ button.disabled:focus {
   height: 44px;
   border-radius: 8px;
   background-color: #eff0f6;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .view-sort-btn:hover {
@@ -1797,35 +1797,35 @@ input::-webkit-input-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 input::-moz-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 input:-ms-input-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 input::-ms-input-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 input::placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 input:focus {
@@ -1993,7 +1993,7 @@ label {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background-color: #ff2744 !important;
+  background-color: #f15226 !important;
   width: 253px;
   padding: 20px 15px 37px 20px;
   -webkit-transition: 0.5s all;
@@ -2483,7 +2483,7 @@ label {
   background-color: #eff0f6;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -2492,7 +2492,7 @@ label {
   background-color: #eff0f6;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
   -moz-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -2501,7 +2501,7 @@ label {
   background-color: #eff0f6;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
   -ms-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -2510,7 +2510,7 @@ label {
   background-color: #eff0f6;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
   -ms-transition: 0.3s all;
   transition: 0.3s all;
 }
@@ -2519,7 +2519,7 @@ label {
   background-color: #eff0f6;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
   -webkit-transition: 0.3s all;
   -o-transition: 0.3s all;
   transition: 0.3s all;
@@ -2863,7 +2863,7 @@ label {
 }
 
 .top-cat-list__subtitle .blue {
-  color: #ff2744;
+  color: #f15226;
   background-color: rgba(116, 51, 255, 0.1);
 }
 
@@ -3155,35 +3155,35 @@ label {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .form-input::-moz-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .form-input:-ms-input-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .form-input::-ms-input-placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .form-input::placeholder {
   font-weight: 500;
   font-size: 14px;
   line-height: 2.43;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .form-checkbox {
@@ -3283,7 +3283,7 @@ label {
 }
 
 .darkmode .search-wrapper input {
-  color: #ff2744;
+  color: #f15226;
   background-color: #222235;
 }
 
@@ -3336,7 +3336,7 @@ label {
 
 .darkmode .dropdown a {
   border-bottom-color: #2C2C42;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .dropdown-btn {
@@ -3344,7 +3344,7 @@ label {
 }
 
 .darkmode .notification-dropdown__title {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .main-title {
@@ -3403,7 +3403,7 @@ label {
 }
 
 .darkmode .sort-btn {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .form {
@@ -3411,12 +3411,12 @@ label {
 }
 
 .darkmode .form-label {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .form-input {
   background-color: #222235;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .sign-up__title {
@@ -3424,26 +3424,26 @@ label {
 }
 
 .darkmode .sign-up__subtitle {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .new-page-content input {
   background-color: #363648;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .new-page-content .ql-toolbar {
   background-color: #363648;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .white-block {
   background-color: #222235;
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .white-block__title {
-  color: #ff2744;
+  color: #f15226;
 }
 
 .darkmode .white-block .radio {

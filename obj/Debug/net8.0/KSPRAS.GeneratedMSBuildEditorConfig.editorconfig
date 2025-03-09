@@ -24,12 +24,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/KSPRAS/KSPRAS/Views/Home/Upload.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWQuY3NodG1s
+[C:/Users/Admin/source/repos/KSPRAS/KSPRAS/Views/Home/Registrations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/KSPRAS/KSPRAS/Views/Home/UploadAbstract.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWRBYnN0cmFjdC5jc2h0bWw=
+[C:/Users/Admin/source/repos/KSPRAS/KSPRAS/Views/Home/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/source/repos/KSPRAS/KSPRAS/Views/Shared/Error.cshtml]

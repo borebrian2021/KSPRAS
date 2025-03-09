@@ -26,4 +26,6 @@ public class AbstractSubmissionModel
     public Boolean isPaid { get; set; } = false;// Corresponds to <textarea name="conclusion">
     public float ammount { get; set; } = 0;// Corresponds to <textarea name="conclusion">
     public string reffCode { get; set; } // Corresponds to <textarea name="conclusion">
+    public string PaymentCategory { get; set; } // Corresponds to <textarea name="conclusion">
+    public string Currency { get; set; } // Corresponds to <textarea name="conclusion">
 }

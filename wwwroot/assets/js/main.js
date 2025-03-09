@@ -367,7 +367,7 @@ $(function() {
             confirmButtonText: `
     <i class="fa fa-thumbs-up"></i> Great!
   `,
-            confirmButtonAriaLabel: "Thumbs up, great!", confirmButtonColor: "#ff2744",
+            confirmButtonAriaLabel: "Thumbs up, great!", confirmButtonColor: "#f15226",
            
         });
     });
@@ -383,20 +383,6 @@ $(function() {
     
     
     //===== 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
 });
@@ -432,7 +418,7 @@ var x = setInterval(function () {
 
     document.getElementById('upload_abstract').addEventListener('submit', function (e) {
         e.preventDefault(); // Prevent the default form submission
-        alert("test")
+    
     // Show loading spinner
     document.getElementById('loading').style.display = 'block';
 
@@ -440,7 +426,7 @@ var x = setInterval(function () {
         const formData = new FormData(this);
         const url=
     // Submit form data via fetch
-            fetch("https://localhost:7209/home/Upload", { // Replace with your controller name
+            fetch("https://localhost:7209/PesaPal/Upload", { // Replace with your controller name
         method: 'POST',
     body: formData
         })
@@ -450,9 +436,13 @@ var x = setInterval(function () {
         document.getElementById('loading').style.display = 'none';
 
     if (data.success) {
-        alert(data.message); // Show success message
+        //alert(data.message); // Show success message
     document.getElementById('upload_abstract').reset(); // Reset the form
-            } else {
+        let testUrl = "https://example.com"; // Replace with actual payment URL
+        document.getElementById("paymentIframe").src = data.data;
+        $("#PayModal").modal("show");
+
+    } else {
         alert(data.message); // Show error message
     if (data.errors) {
         console.log(data.errors); // Log validation errors
@@ -466,7 +456,11 @@ var x = setInterval(function () {
     console.error(error);
         });
     });
-function loadIframe() {
-    document.getElementById("paymentFrame").src = "https://localhost:7209/home/justpay";
-    fetch(https://localhost:7209/home/justpay)
+//function loadIframe() {
+//    document.getElementById("paymentFrame").src = "https://localhost:7209/home/justpay";
+//    fetch(https://localhost:7209/home/justpay)
+//}
+
+function setPaymentUrl() {
+   
 }
