@@ -1,0 +1,175 @@
+﻿@model KSPRAS.Models.DashboardViewModel;
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!-- Bootstrap 4 -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<!-- DataTables -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+
+<!-- Top Cards -->
+<div class="row" style="margin-top:250px;margin-right:20px;margin-left:20px">
+    <div class="col-md-6 mt-5">
+        <div class="card   text-white" style="background-color:#f15226">
+            <div class="card-body">
+                <h5>Total Registrations</h5>
+                <h2>@Model.TotalRegistrations</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mt-5">
+        <div class="card  text-white" style="background-color:#f15226">
+            <div class="card-body">
+                <h5>Paid Registrations</h5>
+                <h2>@Model.PaidRegistrations</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Tab Navigation -->
+<ul class="nav nav-tabs mt-4" id="dashboardTabs">
+    <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#abstracts">All Registrations</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#unpaid">Unpaid Registrations</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#cash">Cash Payments</a>
+    </li>
+</ul>
+
+<div class="tab-content mt-3 p-4">
+    <!-- Abstracts Submitted Tab -->
+    <div class="tab-pane fade show active" id="abstracts">
+        <h3>All Registrations</h3>
+        <table class="table table-bordered" style="font-size:10px"> <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email</th>
+                    <th>Cadre</th>
+                    <th>Telephone Number</th>
+                    <th>Email Address</th>
+                    <th>Institution</th>
+                    <th>PaymentConfirmation</th>
+                    <th>Payment Status</th>
+                    <th>Payment Category</th>
+                    <th>Amount Paid</th>
+                    <th>Currency</th>
+                    <th>Reference Code</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Registrations)
+                {
+                    <tr>
+                        <td>@item.FName</td>
+                        <td>@item.SName</td>
+                        <td>@item.EmailAddress</td>
+                        <td>@item.Cadre</td>
+                        <td>@item.TelephoneNumber</td>
+                        <td>@item.EmailAddress</td>
+                        <td>@item.Institution</td>
+                        <td>@item.PaymentConfirmation</td>
+                        @if (item.Status_code == "0")
+                        {
+                            <td style="color:white">
+                                <button class="btn btn-warning" style="font-size:10px"> Payment was invalid</button>
+                            </td>
+                        }
+                        else if (item.Payment_Status == "2")
+                        {
+                            <td style="">@item.Payment_Status
+                                <button class="btn btn-warning" style="font-size:10px">Payment was initiated but user never entered the password</button>
+                            </td>
+                        }
+                        else if (item.Status_code == "1") 
+                        {
+                            <td style="background-color:white">
+                                
+                                <button class="btn btn-success" style="font-size:10px">Payment Confirmed</button>
+                            </td>
+                        }else if (item.Status_code == "3") 
+                        {
+                            <td style="background-color:white">
+
+                                <button class="btn btn-warning" style="font-size:10px">Payment Reversed.</button>
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="background-color:white">
+
+                                <button class="btn btn-warning" style="font-size:10px">Payment was never made</button>
+                            </td>
+                        }
+
+                                        <td>@item.PaymentCategory</td>
+                        <td>@Math.Round(@item.Ammount,2)</td>
+                        <td>@item.Currency</td>
+                                <td>@item.ReffCode</td>
+                            </tr>
+                        }
+                </tbody>
+            </table>
+            </div>
+
+            <!-- Unpaid Registrations Tab -->
+            <div class="tab-pane fade" id="unpaid">
+                <h3>Unpaid Registrations</h3>
+                <table id="unpaidTable" class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Email</th>
+                            <th>Institution</th>
+                            <th>Payment Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.UnpaidRegistrations)
+                        {
+                            <tr>
+                                <td>@item.FName</td>
+                                <td>@item.SName</td>
+                                <td>@item.EmailAddress</td>
+                                <td>@item.Institution</td>
+                                <td>@item.PaymentConfirmation</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Cash Payments Tab -->
+            <div class="tab-pane fade" id="cash">
+                <h3>Cash Payments</h3>
+                <table id="cashTable" class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Amount</th>
+                            <th>Payment Method</th>
+                            <th>Payment Status</th>
+                            <th>Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.CashPayments)
+                        {
+                            <tr>
+                                <td>@item.amount</td>
+                                <td>@item.payment_method</td>
+                                <td>@item.payment_status_description</td>
+                                <td>@item.created_date.ToString("yyyy-MM-dd")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+ 

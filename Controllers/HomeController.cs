@@ -25,7 +25,29 @@ public class HomeController : Controller
     public IActionResult Registrations()
     {
         return View();
+    }   
+    
+    public IActionResult Dashboard()
+    {
+        var dashboardData = new DashboardViewModel
+        {
+            TotalRegistrations = DBContext.Registrations.Count(),
+            PaidRegistrations = DBContext.Registrations.Count(r => r.Status_code == "1"),
+            Registrations = DBContext.Registrations.ToList(),
+            UnpaidRegistrations = DBContext.Registrations.Where(r => r.Status_code != "1").ToList(),
+            CashPayments = DBContext.PaymentResponse.ToList()
+
+        };
+
+        return View(dashboardData);
+
+        var registrations = DBContext.Registrations.ToList(); // Fetch data from DB
+            return View(registrations);
+        
     }
+
+   
+  
     public IActionResult Privacy()
     {
         return View();

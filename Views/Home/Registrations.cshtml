@@ -18,9 +18,13 @@
 
                     </div>
                     <form class="signin-form" id="upload_abstract">
+                       
                         <div class="row">
                             <!-- Will you attend? -->
-                            <div class="col-lg-6">
+                           
+                                    <input hidden type="text" class="form-control custome-input" value="Not paid"  id="fname" name="Payment_Status" required>
+                            <input hidden type="text" class="form-control custome-input" value="3" id="fname" name="Status_code" required>
+ <div class="col-lg-6">
                                 <div class="form-group mb-3">
                                     <label class="label">Will you attend? *</label>
                                     <select class="form-control custome-input" name="Attend" required>
@@ -206,11 +210,9 @@
  </div>
 </section>
 
-<!-- Test Button to Open Modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#PayModal" onclick="setPaymentUrl()">Test Payment Modal</button>
 
 <!-- Payment Modal -->
-<div class="modal fade" id="PayModal" tabindex="-1" role="dialog" aria-labelledby="PayModalLabel" aria-hidden="true">
+<div class="modal fade" data-backdrop="static" id="PayModal" tabindex="-1" role="dialog" aria-labelledby="PayModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header custome_header_bg_color">

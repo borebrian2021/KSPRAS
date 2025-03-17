@@ -221,6 +221,9 @@ namespace KSPRAS.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<float>("Ammount")
+                        .HasColumnType("real");
+
                     b.Property<string>("Attend")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -253,21 +256,23 @@ namespace KSPRAS.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Payment_Status")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ReffCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("SName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("TelephoneNumber")
+                    b.Property<string>("Status_code")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<float>("ammount")
-                        .HasColumnType("real");
-
-                    b.Property<bool>("isPaid")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("reffCode")
+                    b.Property<string>("TelephoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

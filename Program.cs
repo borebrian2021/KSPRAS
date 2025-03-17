@@ -38,7 +38,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngularApp",
         builder => builder.AllowAnyMethod()
                     .AllowAnyHeader()
-                    .WithOrigins("https://panafricanburns.com")
+                    .WithOrigins("http://kspras1-001-site1.jtempurl.com")
                     .AllowCredentials());
 });
 var app = builder.Build();

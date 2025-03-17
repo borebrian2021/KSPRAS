@@ -1,4 +1,6 @@
-﻿namespace KSPRAS.Models
+﻿using KSPRAS.Models;
+
+namespace KSPRAS.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
@@ -29,3 +31,5 @@
 
     }
 }
+
+  

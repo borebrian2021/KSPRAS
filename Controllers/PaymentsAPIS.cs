@@ -26,7 +26,6 @@ public class PesaPal : Controller
     }
 
     [HttpPost]
-    [HttpPost]
     public async Task<IActionResult> Upload([FromForm] Registrations registrations)
     {
         const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -37,9 +36,9 @@ public class PesaPal : Controller
         try
         {
             // Set default values
-            registrations.isPaid = false;
-            registrations.ammount = GetConferenceFee(registrations.PaymentCategory);
-            registrations.reffCode = RandomRef;
+        
+            registrations.Ammount = GetConferenceFee(registrations.PaymentCategory);
+            registrations.ReffCode = RandomRef;
             ammountToPay = GetConferenceFee(registrations.PaymentCategory);
 
             // Save to database
@@ -80,13 +79,23 @@ public class PesaPal : Controller
         // Define category-based pricing
         var pricing = new System.Collections.Generic.Dictionary<string, float[]>
         {
-            { "Residents", new float[] { 21, 23, 26 } },
-            { "Consultants", new float[] { 27, 30, 33 } },
+            { "Residents", new float[] { 1, 23, 26 } },
+            { "Consultants", new float[] { 2, 30, 33 } },
             { "Nurses, Allied Professionals, Medical Officers", new float[] { 18, 20, 22 } },
-            { "Medical Students", new float[] { 10, 10, 15 } },
-            { "East African Delegates", new float[] { 36, 40, 45 } },
-            { "International Delegates", new float[] { 3, 4, 4 } } // Prices in USD
+            { "Medical Students", new float[] { 3, 10, 15 } },
+            { "East African Delegates", new float[] { 4, 40, 45 } },
+            { "International Delegates", new float[] { 5, 4, 4 } } // Prices in USD
         };
+        //
+        //var pricing = new System.Collections.Generic.Dictionary<string, float[]>
+        //{
+        //    { "Residents", new float[] { 21, 23, 26 } },
+        //    { "Consultants", new float[] { 27, 30, 33 } },
+        //    { "Nurses, Allied Professionals, Medical Officers", new float[] { 18, 20, 22 } },
+        //    { "Medical Students", new float[] { 10, 10, 15 } },
+        //    { "East African Delegates", new float[] { 36, 40, 45 } },
+        //    { "International Delegates", new float[] { 3, 4, 4 } } // Prices in USD
+        //};
 
         if (!pricing.ContainsKey(category))
         {
@@ -176,7 +185,7 @@ public class PesaPal : Controller
     public async Task<string> InsertIPN(string OrderTrackingId, string OrderNotificationType, string OrderMerchantReference)
     {
         IPNResponses x = new IPNResponses();
-        var findRef = DBContext.Registrations.FirstOrDefault(x => x.reffCode == OrderMerchantReference);
+        var findRef = DBContext.Registrations.FirstOrDefault(x => x.ReffCode == OrderMerchantReference);
         string data = JsonConvert.SerializeObject(keysecrets);
         var url = "https://pay.pesapal.com/v3/api/Transactions/GetTransactionStatus?orderTrackingId="+OrderTrackingId;
 
@@ -194,37 +203,73 @@ public class PesaPal : Controller
             var result = streamReader.ReadToEnd();
          
             var jsonObject = JsonConvert.DeserializeObject<JObject>(result);
-            PaymentResponse paymentResponse = new PaymentResponse
+            PaymentResponse checkExistance = DBContext.PaymentResponse.FirstOrDefault(X => X.merchant_reference == OrderMerchantReference);
 
+
+
+            if (checkExistance == null) {
+
+                checkExistance.payment_method = jsonObject["payment_method"]?.ToString();
+                    checkExistance.amount = jsonObject["amount"]?.ToObject<double>() ?? 0;
+                    checkExistance.created_date = jsonObject["created_date"]?.ToObject<DateTime>() ?? DateTime.UtcNow;
+                    checkExistance.confirmation_code = jsonObject["confirmation_code"]?.ToString();
+                    checkExistance.order_tracking_id = jsonObject["order_tracking_id"]?.ToString();
+                    checkExistance.payment_status_description = jsonObject["payment_status_description"]?.ToString();
+                    checkExistance.description = jsonObject["description"]?.ToString();
+                    checkExistance.message = jsonObject["message"]?.ToString();
+                    checkExistance.payment_account = jsonObject["payment_account"]?.ToString();
+                    checkExistance.call_back_url = jsonObject["call_back_url"]?.ToString();
+                   checkExistance. status_code = jsonObject["status_code"]?.ToObject<int>() ?? 0;
+                    checkExistance.merchant_reference = jsonObject["merchant_reference"]?.ToString();
+                    checkExistance.account_number = jsonObject["account_number"]?.ToString();
+                    checkExistance.payment_status_code = jsonObject["payment_status_code"]?.ToString();
+                    checkExistance.currency = jsonObject["currency"]?.ToString();
+                   checkExistance. status = jsonObject["status"]?.ToString();
+                    checkExistance.error_type = jsonObject["error"]?["error_type"]?.ToString();
+                    checkExistance.code = jsonObject["error"]?["code"]?.ToString();
+                DBContext.Add(checkExistance);
+                DBContext.SaveChanges();
+            }
+            else
             {
-                payment_method = jsonObject["payment_method"]?.ToString(),
-                amount = jsonObject["amount"]?.ToObject<double>() ?? 0,
-                created_date = jsonObject["created_date"]?.ToObject<DateTime>() ?? DateTime.UtcNow,
-                confirmation_code = jsonObject["confirmation_code"]?.ToString(),
-                order_tracking_id = jsonObject["order_tracking_id"]?.ToString(),
-                payment_status_description = jsonObject["payment_status_description"]?.ToString(),
-                description = jsonObject["description"]?.ToString(),
-                message = jsonObject["message"]?.ToString(),
-                payment_account = jsonObject["payment_account"]?.ToString(),
-                call_back_url = jsonObject["call_back_url"]?.ToString(),
-                status_code = jsonObject["status_code"]?.ToObject<int>() ?? 0,
-                merchant_reference = jsonObject["merchant_reference"]?.ToString(),
-                account_number = jsonObject["account_number"]?.ToString(),
-                payment_status_code = jsonObject["payment_status_code"]?.ToString(),
-                currency = jsonObject["currency"]?.ToString(),
-                status = jsonObject["status"]?.ToString(),
-                error_type = jsonObject["error"]?["error_type"]?.ToString(),
-                code = jsonObject["error"]?["code"]?.ToString(),
-             
-            };
-            DBContext.PaymentResponse.Add(paymentResponse);
+                PaymentResponse update = DBContext.PaymentResponse.FirstOrDefault(j => j.merchant_reference == OrderMerchantReference);
+                update.status = jsonObject["payment_status_description"]?.ToString();
+                update.payment_method = jsonObject["payment_method"]?.ToString();
+                update.amount = jsonObject["amount"]?.ToObject<double>() ?? 0;
+                update.created_date = jsonObject["created_date"]?.ToObject<DateTime>() ?? DateTime.UtcNow;
+                update.confirmation_code = jsonObject["confirmation_code"]?.ToString();
+                update.order_tracking_id = jsonObject["order_tracking_id"]?.ToString();
+                update.payment_status_description = jsonObject["payment_status_description"]?.ToString();
+                update.description = jsonObject["description"]?.ToString();
+                update.message = jsonObject["message"]?.ToString();
+                update.payment_account = jsonObject["payment_account"]?.ToString();
+                update.call_back_url = jsonObject["call_back_url"]?.ToString();
+                update.status_code = jsonObject["status_code"]?.ToObject<int>() ?? 0;
+                update.merchant_reference = jsonObject["merchant_reference"]?.ToString();
+                update.account_number = jsonObject["account_number"]?.ToString();
+                update.payment_status_code = jsonObject["payment_status_code"]?.ToString();
+                update.currency = jsonObject["currency"]?.ToString();
+                update.status = jsonObject["status"]?.ToString();
+                update.error_type = jsonObject["error"]?["error_type"]?.ToString();
+                update.code = jsonObject["error"]?["code"]?.ToString();
+                DBContext.SaveChanges();
+            }
+
+            Registrations registrations = DBContext.Registrations.FirstOrDefault(j => j.ReffCode == OrderMerchantReference);
+            //registrations.ammount = double.Parse(jsonObject["amount"]?.ToObject<double>() ?? 0);
+            registrations.Payment_Status = jsonObject["payment_status_description"]?.ToString();
+            registrations.Status_code = jsonObject["status_code"].ToString();
             await DBContext.SaveChangesAsync();
+
 
             x.OrderTrackingId = OrderTrackingId;
             x.OrderNotificationType = OrderNotificationType;
             x.OrderMerchantReference = OrderMerchantReference;
             DBContext.Add(x);
             await DBContext.SaveChangesAsync();
+
+
+          
         }
 
 
@@ -278,11 +323,11 @@ public class PesaPal : Controller
         var paymentRequest = new
         {
             id = refference,
-            currency = "KES",
+            currency = registrations.Currency,
             amount = ammountToPay,
-            description = "Registration for the Pabs Conference",
-            callback_url = "https://www.myapplication.com/response-page",
-            notification_id = "4835c08f-4383-4908-9980-dc12a88afc8c",
+            description = "Registration for the KSPRAS Conference",
+            callback_url = "https://localhost:7209/home/registrations",
+            notification_id = "fec04521-f97b-44b5-96a8-dc0b0af09033",
             billing_address = new
             {
                 email_address = registrations.EmailAddress,
@@ -299,6 +344,34 @@ public class PesaPal : Controller
                 zip_code = ""
             }
         };
+
+        //ADD PAYMENT RESPONSE
+        PaymentResponse paymentResponse = new PaymentResponse
+
+        {
+            payment_method = "",
+            amount = ammountToPay,
+            created_date = DateTime.Now,
+            confirmation_code ="",
+            order_tracking_id = "",
+            payment_status_description = ammountToPay.ToString(),
+            description = "Registration for the KSPRAS Conference",
+           
+            message = "",
+            payment_account = "",
+            call_back_url = "https://localhost:7209/home/registrations",
+            status_code = 0,
+            merchant_reference = refference,
+            account_number = "",
+            payment_status_code = "",
+            currency = registrations.Currency,
+            status = "",
+            error_type = "",
+            code = "",
+
+        };
+        DBContext.PaymentResponse.Add(paymentResponse);
+        DBContext.SaveChanges();
 
         string jsonString = JsonConvert.SerializeObject(paymentRequest);
         var request = (HttpWebRequest)WebRequest.Create(url);
